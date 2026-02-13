@@ -1,0 +1,47 @@
+1️⃣ Windowing & Input
+
+GLFW — Create windows, handle input (keyboard/mouse), manage OpenGL context
+
+Website: https://www.glfw.org/download.html
+
+2️⃣ OpenGL Loader
+
+GLAD — Load modern OpenGL functions dynamically
+
+Website: https://glad.dav1d.de/
+
+3️⃣ Math Library
+
+GLM — GLSL-like math library (vectors, matrices, transforms)
+
+GitHub: https://github.com/g-truc/glm
+
+4️⃣ Debug / UI
+
+Dear ImGui — Lightweight GUI for debugging, tools, editors
+
+GitHub: https://github.com/ocornut/imgui
+
+5️⃣ Image & Texture Loading
+
+stb_image.h — Simple image loader for textures (PNG, JPG, etc.)
+
+GitHub: https://github.com/nothings/stb
+
+6️⃣ Optional / Future Expansion
+
+Assimp — Import 3D models (OBJ, FBX, etc.)
+
+Website: https://www.assimp.org/
+
+Bullet Physics — Physics simulation (optional for RTS if needed)
+
+Website: https://pybullet.org/
+
+spdlog — Fast logging for debugging
+
+GitHub: https://github.com/gabime/spdlog
+
+entt — Optional ECS framework for faster prototyping
+
+GitHub: https://github.com/skypjack/entt
